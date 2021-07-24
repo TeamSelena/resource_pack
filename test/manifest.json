@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "SELENA",
+        "name": "SELENA",
+        "uuid": "0e2d603a-3783-4261-a414-1bacb4d9dc48",
+        "version": [0, 0, 12],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "SELENA",
+            "type": "resources",
+            "uuid": "4328151d-377a-42e3-b28c-c3be53b3c7bd",
+            "version": [0, 0, 11]
+        }
+    ]
+}
